@@ -4,10 +4,11 @@
 - Next.js
 - Keystone.js
 - Wordpress (Headless!)
+- Shopify
 
 #### Interested in
 - JAMStack
 - eCommerce solutions
 - Espresso
 
-Reach me on hello@calebfetzer.me
+[:envelope: Say hello!](hello@calebfetzer.me)
