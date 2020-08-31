@@ -11,4 +11,4 @@
 - eCommerce solutions
 - Espresso
 
-[:envelope: Say hello!](hello@calebfetzer.me)
+[:envelope: Say hello!](mailto:hello@calebfetzer.me)
