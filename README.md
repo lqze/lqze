@@ -3,7 +3,7 @@
 - Gatsby.js
 - Next.js
 - Keystone.js
-- Wordpress (Headless!)
+- WordPress with WPGraphQL (Headless!)
 - Shopify
 
 #### Interested in
