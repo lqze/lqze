@@ -2,7 +2,6 @@
 #### Tech using
 - Gatsby.js
 - Next.js
-- Keystone.js
 - WordPress with WPGraphQL (Headless!)
 - Shopify
 
