@@ -6,11 +6,10 @@
 - React
 
 #### Interested in
-- JAMStack
 - SPAs
+- Laravel
 - MVC Apps
 - Finding typos/grammatical mistakes in documentation.
-- eCommerce solutions
 - Espresso
 
 [:envelope: Say hello!](mailto:hello@calebfetzer.me)
