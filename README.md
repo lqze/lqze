@@ -1,12 +1,9 @@
 ### Hello 👋
 
 #### Tech using
-- Gatsby
-- Next.js
-- Node.js
+- JavaScript
 - TypeScript
-- WordPress with WPGraphQL (Headless!)
-- Shopify
+- React
 
 #### Interested in
 - JAMStack
