@@ -4,12 +4,12 @@
 - JavaScript
 - TypeScript
 - React
+- Laravel
 
 #### Interested in
 - SPAs
-- Laravel
 - MVC Apps
-- Finding typos/grammatical mistakes in documentation.
+- Finding typos in documentation
 - Espresso
 
 [:envelope: Say hello!](mailto:hello@calebfetzer.me)
